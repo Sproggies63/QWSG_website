@@ -1,9 +1,27 @@
 ---
-title: "About"
+title: "About Us"
 ---
 
-About this site
+THE QUEENSLAND WADER STUDY GROUP (QWSG) is a non-government volunteer organisation dedicated to the protection of shorebirds and their habitat.
 
-```{r}
-1 + 1
-```
+QWSG is an activities based organisation with emphasis on the collection, analysis and dissemination of data concerning waders. Membership is open to all who want to learn about or help in the conservation of these remarkable birds. A management committee meets every two months to organise and plan activities and to respond to matters of concern as they arise.
+
+Amongst those activities either ongoing or completed, are:
+
+-   Coordinated monthly counts of waders Banding and leg-flagging through cannon-netting and mist-netting
+
+-   Maintenance of Qld wader count and banding databases
+
+-   Satellite tracking of Eastern Curlew Major shorebird surveys in regional centres i.e. Gulf of Carpentaria, Great Sandy Strait, Mackay, Burnett Mary
+
+-   GIS mapping of wader high tide roosts
+
+-   Advising public and private organisations of practical solutions for the preservation and creation of suitable habitat for waders or shorebirds
+
+-   Active lobbying for protection or replacement of roost sites
+
+-   Education program including an annual wader workshop, identification days and school educationin association with a shorebird education kit for children Publication of comprehensive book “Shorebirds of Australia”
+
+A quarterly newsletter “Queensland Wader” keeps members informed of the latest in shorebird research and of the group’s recent activities.
+
+QWSG is a division within the Queensland Ornithological Society Inc (QOSI) along with Birds Queensland (BQ) and the Queensland Bird Research and Banding Group (QBRBG).

@@ -3,13 +3,37 @@ project:
   output-dir: docs
 
 website:
-  title: "QWSG"
+  title: |
+    <img src="images/qwsg-logo.png" alt="Logo" style="height:50px; vertical-align:middle; margin-right:10px;">
+    Queensland Wader Study Group
   navbar:
+    background: light
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - New_sites.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About Us"
+        href: about.qmd
+      - text: "About Waders"
+        href: About_Waders.qmd
+      - text: "Studying Waders"
+        href: Studying_Waders.qmd
+      - text: "Watching Waders"
+        href: Watching_Waders.qmd
+      - text: "Contact Us"
+        href: Contact_Us.qmd
+    right: 
+      - href: "https://facebook.com/QueenslandWaderStudyGroup"
+        icon: facebook
+        
+  sidebar:
+    - title: "Home"
+      style: "docked"
+      background: light
+      contents:
+        - index.qmd
+        - News_and_Notices.qmd
+        - Activities.qmd
 
 format:
   html:
@@ -17,7 +41,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 
 
