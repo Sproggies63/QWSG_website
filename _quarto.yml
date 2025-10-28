@@ -11,7 +11,7 @@ website:
     search: true
     left:
       - text: "Home"
-        href: index.qmd
+        href: .
       - text: "About Us"
         href: about.qmd
       - text: "About Waders"
