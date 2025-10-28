@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "QWSG website"
+  title: "QWSG"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - New_sites.qmd
 
 format:
   html:
